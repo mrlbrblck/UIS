@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\UIS\\UIS\\UIS.csproj": {}
+    "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\UIS.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\UIS\\UIS\\UIS.csproj": {
+    "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\UIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\UIS\\UIS\\UIS.csproj",
+        "projectUniqueName": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\UIS.csproj",
         "projectName": "UIS",
-        "projectPath": "D:\\Programming\\UIS\\UIS\\UIS.csproj",
-        "packagesPath": "C:\\Users\\ACER-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\UIS\\UIS\\obj\\",
+        "projectPath": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\UIS.csproj",
+        "packagesPath": "C:\\Users\\NEW PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEW PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

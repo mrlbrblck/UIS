@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\ACER-PC\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ACER-PC\\.nuget\\packages",
+      "C:\\Users\\NEW PC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NEW PC\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
