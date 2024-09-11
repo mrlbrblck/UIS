@@ -1,0 +1,17 @@
+D:\Programming\UIS\UIS\bin\Debug\net8.0-windows\UIS.exe
+D:\Programming\UIS\UIS\bin\Debug\net8.0-windows\UIS.deps.json
+D:\Programming\UIS\UIS\bin\Debug\net8.0-windows\UIS.runtimeconfig.json
+D:\Programming\UIS\UIS\bin\Debug\net8.0-windows\UIS.dll
+D:\Programming\UIS\UIS\bin\Debug\net8.0-windows\UIS.pdb
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.Form1.resources
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.Properties.Resources.resources
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.csproj.GenerateResource.cache
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.AssemblyInfoInputs.cache
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.AssemblyInfo.cs
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.csproj.CoreCompileInputs.cache
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.dll
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\refint\UIS.dll
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.pdb
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\UIS.genruntimeconfig.cache
+D:\Programming\UIS\UIS\obj\Debug\net8.0-windows\ref\UIS.dll
