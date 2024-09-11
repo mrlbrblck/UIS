@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|c:\\users\\new pc\\documents\\github\\uis\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|c:\\users\\new pc\\documents\\github\\uis\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|c:\\users\\new pc\\documents\\github\\uis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B0C4F54-D91F-4BCB-BB85-D26219A8E791}|UIS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +34,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:05:53.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:05:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
+              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T17:51:45.963Z",
@@ -39,12 +72,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\NEW PC\\Documents\\GitHub\\UIS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T17:51:32.892Z",
               "EditorCaption": " [Design]"
