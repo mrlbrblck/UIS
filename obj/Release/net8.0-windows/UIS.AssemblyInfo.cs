@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UIS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833759acf50e3c96208123954ab4ffbe0da8dae4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72e5a8b5bbd6aa84f664eba8d3a8dae22cf1fb1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UIS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UIS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

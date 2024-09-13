@@ -77,12 +77,12 @@
             // 
             llbl_loginlink.AutoSize = true;
             llbl_loginlink.Font = new Font("Calisto MT", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            llbl_loginlink.Location = new Point(166, 446);
+            llbl_loginlink.Location = new Point(113, 446);
             llbl_loginlink.Name = "llbl_loginlink";
-            llbl_loginlink.Size = new Size(115, 23);
+            llbl_loginlink.Size = new Size(216, 23);
             llbl_loginlink.TabIndex = 14;
             llbl_loginlink.TabStop = true;
-            llbl_loginlink.Text = "Back to login";
+            llbl_loginlink.Text = "Already have an account?";
             llbl_loginlink.LinkClicked += llbl_loginlink_LinkClicked;
             // 
             // btn_signup

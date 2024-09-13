@@ -33,7 +33,6 @@ C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\refint\UIS.dll
 C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.pdb
 C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.genruntimeconfig.cache
 C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\ref\UIS.dll
-C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.frm_login.resources
 C:\Users\NEW PC\Documents\GitHub\UIS\bin\Debug\net8.0-windows\UIS.dll.config
 C:\Users\NEW PC\Documents\GitHub\UIS\bin\Debug\net8.0-windows\Azure.Core.dll
 C:\Users\NEW PC\Documents\GitHub\UIS\bin\Debug\net8.0-windows\Azure.Identity.dll
@@ -72,3 +71,4 @@ C:\Users\NEW PC\Documents\GitHub\UIS\bin\Debug\net8.0-windows\Microsoft.Data.Too
 C:\Users\NEW PC\Documents\GitHub\UIS\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
 C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.csproj.AssemblyReference.cache
 C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.csproj.Up2Date
+C:\Users\NEW PC\Documents\GitHub\UIS\obj\Debug\net8.0-windows\UIS.Form2.resources
